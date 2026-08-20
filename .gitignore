@@ -1,0 +1,9 @@
+build/
+.idea/
+*.o
+*.d
+*.lst
+*.elf
+*.bin
+*.hex
+*.map
